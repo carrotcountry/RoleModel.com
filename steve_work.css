@@ -1,0 +1,298 @@
+
+/* 테이블 크기 조절은 34와 40 */
+
+
+section{
+    margin: 200 auto;
+}
+
+/* hr{
+    height:5px;
+    background-color: white;
+    border: solid white;
+} */
+/* #info_content {
+    width: 700px;
+    color: white;
+    border-color: white;
+} */
+
+
+#table_one{
+    text-decoration:none;
+    margin: 0 auto;
+    color:white;
+}
+
+td a{
+    color:white;
+    text-decoration:none;
+}
+
+a{
+    color:white;
+    text-decoration:none;
+}
+
+#first_header{
+    height: 150px;
+}
+
+
+#table_img{
+    float: right;
+    width: 300px;
+    height: 400px;
+}
+/* 
+p{
+    width: 1000px;
+    margin: 0 auto;
+} */
+
+
+td{
+    height:40px;
+    border:1px solid white;
+    text-align: center;
+}
+
+.empty{
+    height: 50px;
+}
+
+
+#Apple_table{
+    margin: 0 auto;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    
+}
+
+#imac_table{
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#Apple_table  tr td:nth-child(1){
+    text-align: center;
+    height:20px;
+    /* border:1px solid black; */
+    background-color: white;
+    color: black;
+    
+}
+
+#Apple_table tr td{width:350px;}
+
+#Apple_table  tr:nth-child(2) td:nth-child(1){
+    text-align: center;
+    height: 40px;
+    width: 230px;
+    background-color: white;
+    color: black;
+    /* border:1px solid black; */
+
+}
+
+#Apple_table  tr td:nth-child(2){
+    text-align: center;
+    height: 160px;
+    /* width: 200px; */
+    /* background-color: white;
+    border:1px solid black; */
+    /* color: black; */
+
+}   
+
+#imac_table tr td:nth-child(1){
+    text-align: left;
+    height: 160px;
+    width: 440px;
+    /* background-color: white; */
+    /* color: black;*/ 
+    border:1px solid black; 
+}
+#imac_table tr td:nth-child(2){
+    text-align: left;
+    height: 160px;
+    width: 385px;
+    border:1px solid black;
+}
+
+#iphone_table{
+    margin:0 auto;
+}
+
+#iphone_table tr td{
+    border: solid black;
+}
+
+#iphone_table tr td{
+    text-align: center;
+}
+/* .no_border2{
+    border:1px solid white;
+
+} */
+
+
+.inline{
+    display: inline;
+}   
+
+
+.info{
+    float:right;
+}
+body{
+    background-color: black;
+    
+}
+
+
+header{
+    text-align: center;
+    color:white;
+}
+
+/* .info{
+    right:90px;
+    color:white;
+
+} */
+
+#content {
+    border-radius: solid white 3px;
+    float: right;
+    color:black;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    text-decoration:none;
+}
+
+#content div{
+    width: 150px;
+    height: 25px;
+    text-decoration:none;
+    margin: 0 auto;
+}
+
+#content .other_anchor{
+    width: 150px;
+    height: 40px;
+    text-decoration:none;
+    margin: 0 auto;
+}
+
+#content a .other_anchor{
+    margin-top: 4%;
+    color: white;
+    text-decoration:none;
+    text-align: center;
+}
+
+#content a div:hover{
+    background-color: white;
+    color:black;
+    text-decoration:none;
+
+}
+
+#content a{
+    text-decoration:none;
+}
+/* #human, #run{
+    text-align: center;
+} */
+
+#content a div {
+    margin-top: 5%;
+    /* color: white; */
+    text-decoration:none;
+    text-align: center;
+}
+ 
+.first_p{
+    height: 30px;
+    width: 1100px;
+    color:white;
+}
+
+#apple_pic{
+    text-align: center;
+    border: solid white 3px;
+    border-radius: 8px;
+    height:300px;
+    width: 220px;
+}
+
+
+.img2{
+    float: left;
+    width: 195px;
+}
+
+#writer_Dazai{
+    border-radius: 10px;
+    height: 270px;
+}
+
+h2{
+    color:white;
+}
+
+.first_article, .second_article, .third_article{
+    text-align: center;
+    margin: 0 auto;
+    width: 1110px;
+    color:black;
+}
+
+footer {
+    width: 100%;
+    height: 70px; /* footer의 높이 */
+    /* position: relative;   */
+    bottom: 0;
+    left: 0;
+ }
+
+
+ #footerletter .footer_p {
+    color:black;
+    text-align: center;
+ }
+
+
+div:hover{
+    background-color: white;
+    color: black;
+}
+
+video{
+    border: solid white;
+    border-radius: 10px ;
+}
+
+/* 
+#page-wrapper{
+    background: black;
+    margin: 40px 0; padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(100,100,100, 0.3);
+} */
+
+
+#main_article, .first_article, .second_article, .third_article{
+    width: 928px;
+    color:white;
+    margin: 0 auto;     
+}
+
+body{
+    width: 1100px; margin: 0 auto;        
+    background: black;
+}
